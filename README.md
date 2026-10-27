@@ -9,4 +9,4 @@
 
 <img align="left" title="SQLSERVER" width="30px" style="padding-rigth: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<img align="left" title="SQLSERVER" width="30px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="left" title="HTML" width="30px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
