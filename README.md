@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 
-### Linguagens e Teconologias
+### 🤖Linguagens e Teconologias
 
 <img align="left" title="C#" width="65px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
@@ -17,9 +17,9 @@
 
 <img align="left" title="REACT" width="65px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 
-<img align="left" title="TypeScript" width="65px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="left" title="JavaScript" width="65px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 
-<img align="left" title=".NET" width="65px" style="padding-rigth: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+<img align="left" title="TypeScript" width="65px" style="padding-rigth: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 
 <img align="left" title="Kafka" width="65px" style="padding-rigth: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
 
