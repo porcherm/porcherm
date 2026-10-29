@@ -2,8 +2,9 @@
 
 **`Desenvolvedor FullStack`**
 
+Olá me chamo Arthur Porcher tenho 18 anos, sou natural do Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na Uniritter e estou estagiando como desenvolvedor FullStack.Sou apaixonado pela tecnologia e realizo projetos próprios por curiosidade.
 
-### 🤖Linguagens e Teconologias
+### 🤖Linguagens e Teconologías
 
 <img align="left" title="C#" width="65px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 
@@ -22,5 +23,7 @@
 <img align="left" title="TypeScript" width="65px" style="padding-rigth: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 
 <img align="left" title="Kafka" width="65px" style="padding-rigth: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+
+<img align="left" title="Docker" width="65px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 
 <!-- <img align="left" title="TYPESCRIPT" width="65px" style="padding-rigth: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" /> -->
