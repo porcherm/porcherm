@@ -1,8 +1,8 @@
-# 🧑‍💻 Arthur
+# 🧑‍💻 Arthur Porcher
 
 **`Desenvolvedor FullStack`**
 
-Olá me chamo Arthur Porcher tenho 18 anos, sou natural do Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na Uniritter e estou estagiando como desenvolvedor FullStack.Sou apaixonado pela tecnologia e realizo projetos próprios por curiosidade.
+Olá me chamo Arthur Lemmermeier Porcher tenho 18 anos, sou natural do Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na Uniritter e estou estagiando como desenvolvedor FullStack.Sou apaixonado pela tecnologia e realizo projetos próprios por curiosidade.
 
 ### 🤖Linguagens e Teconologías
 
